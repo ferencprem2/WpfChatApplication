@@ -1,0 +1,14 @@
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll

@@ -1,0 +1,15 @@
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\MainWindow.g.cs
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\App.g.cs
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp_MarkupCompile.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp_MarkupCompile.lref
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\MainWindow.baml
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.g.resources
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\fercs\Desktop\ChatApplication\ChatApp\obj\Debug\ChatApp.pdb
